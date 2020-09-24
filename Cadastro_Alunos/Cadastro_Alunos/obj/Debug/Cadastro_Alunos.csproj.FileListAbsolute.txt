@@ -1,0 +1,10 @@
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\Cadastro_Alunos\Cadastro_Alunos\bin\Debug\Cadastro_Alunos.exe.config
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\Cadastro_Alunos\Cadastro_Alunos\bin\Debug\Cadastro_Alunos.exe
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\Cadastro_Alunos\Cadastro_Alunos\bin\Debug\Cadastro_Alunos.pdb
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\Cadastro_Alunos.csprojAssemblyReference.cache
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\Cadastro_Alunos.Properties.Resources.resources
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\Cadastro_Alunos.csproj.GenerateResource.cache
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\Cadastro_Alunos.csproj.CoreCompileInputs.cache
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\Cadastro_Alunos.exe
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\Cadastro_Alunos.pdb
+C:\Users\ceplu\OneDrive - Complexo de Ensino Superior do Brasil LTDA\2° Periodo\4. Programação de Computadores\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\Cadastro_Alunos.TelaCadastro.resources
